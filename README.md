@@ -1,2 +1,3 @@
-# CPP-Playgound
-I learn C++ -> do a repo with all files I make
+# C++ Journey From 0
+
+I started learning C++ December 3rd 2023.
